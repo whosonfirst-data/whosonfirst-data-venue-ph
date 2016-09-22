@@ -1,0 +1,80 @@
+{
+  "id": 1108703015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.0211311,14.5359294,121.0211311,14.5359294",
+    "geom:latitude":14.535929,
+    "geom:longitude":121.021131,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "sg:address":"1177 Chino Roces Ave. Suite 4A",
+    "sg:city":"Makati",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1203",
+    "sg:tags":[
+        "cakephp",
+        "php",
+        "software-development",
+        "internet-marketing",
+        "user-interface-design",
+        "web-design",
+        "web-application-development"
+    ],
+    "sg:website":"http://www.pigmata.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632509,
+        85902765,
+        85676433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gZtstCv4hGRmEI413w3dM_14.535929_121.021131@1308163241"
+    },
+    "wof:country":"PH",
+    "wof:created":1474570904,
+    "wof:geomhash":"458920cceefaee1fa751848c29a38483",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "neighbourhood_id":85902765,
+            "region_id":85676433,
+            "venue_id":1108703015
+        }
+    ],
+    "wof:id":1108703015,
+    "wof:lastmodified":1474570904,
+    "wof:name":"Pigmata Media",
+    "wof:parent_id":85902765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cakephp",
+        "php",
+        "software-development",
+        "internet-marketing",
+        "user-interface-design",
+        "web-design",
+        "web-application-development"
+    ]
+},
+  "bbox": [
+    121.0211311,
+    14.5359294,
+    121.0211311,
+    14.5359294
+],
+  "geometry": {"coordinates":[121.02113110000001,14.5359294],"type":"Point"}
+}
